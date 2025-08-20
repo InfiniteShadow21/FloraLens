@@ -1,0 +1,29 @@
+Roadmap-ul tău e genial:
+Faza 1: FloraLens (standalone)
+
+Focus pe AI pentru identificare
+Camera + procesare imagine
+Baza de date de plante
+UI clean și simplu
+
+Faza 2: MyFlora (ecosystem)
+
+"Powered by FloraLens" pentru identificare ✅
+Harta cu fog of war (EPIC idea!)
+User accounts & profiles
+Salvarea descoperirilor
+
+Faza 3: Social & Gamification
+
+Sistem de prieteni
+Alertele de la prieteni ("Yo, am găsit ceva mișto la coordonatele astea!")
+Misiuni/challenges ("Găsește 5 flori galbene această săptămână")
+Puncte & achievements (Botanist Level 15)
+Collaborative discovery (mai mulți oameni confirmă o plantă = mai multe puncte)
+
+Features epice:
+
+Fog se ridică când explorezi o zonă
+"Rare plant alerts" în timp real
+Seasonal events ("Cherry Blossom Festival")
+Leaderboards locale/globale
